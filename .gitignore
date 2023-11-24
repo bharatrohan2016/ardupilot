@@ -165,3 +165,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+
+
+ardu_private_key.dat
+ardu_public_key.dat
